@@ -3,7 +3,7 @@ while True:
     numero_valido2 = None
     num_1_float = 0
     num_2_float = 0
-    print(f'{'-'*10}Calculadora Simples by hasaryo v1.3{'-'*10}')
+    print(f'{'-'*10}Calculadora Simples by hasaryo{'-'*10}')
     numero_1 = input('Digite um número: ')
     try:
         num_1_float = float(numero_1)
